@@ -4,12 +4,3 @@
     color: #ffffff; /* Adjust text/icon color to contrast */
 }
 
-/* Overview Background (When Win Button is Pressed) */
-.workspace-background {
-    background-color: #000000;
-}
-
-/* Optional: Adjust Text Color in Overview */
-.workspace-thumbnail, .workspace-thumbnail:focus {
-    color: #ffffff;
-}
